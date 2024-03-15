@@ -316,7 +316,7 @@ function escape_sequence_decode($str)
     <div class="m-5">
         &nbsp;
     </div>
-    <div class="bg-dark text-white" style="position: fixed; bottom: 0;width: 100%;padding:15px">Developed by <a target="_blank" href="https://www.github.com/TufayelLUS">brent.bingil</a> <span style="float: right;">Copyright &copy; <?php echo date("Y"); ?></span></div>
+    <div class="bg-dark text-white" style="position: fixed; bottom: 0;width: 100%;padding:15px">Developed by <a target="_blank" href="https://github.com/Bbingil">brent.bingil</a> <span style="float: right;">Copyright &copy; <?php echo date("Y"); ?></span></div>
     <script type="text/javascript">
         window.setInterval(function() {
             if ($("input[name='tiktok-url']").attr("placeholder") == "https://www.tiktok.com/@username/video/1234567890123456789") {
